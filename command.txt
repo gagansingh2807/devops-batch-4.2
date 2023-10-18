@@ -14,5 +14,13 @@ git log
 
 git restore
 
+git log --online 
+
+
+git log --online --pretty
+
+git confi --global user.name "gagandeep2807"
+git confi --global user.email "gaganrai5523@gmail.com"
+
 
 
